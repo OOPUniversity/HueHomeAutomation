@@ -1,0 +1,4 @@
+swagger:
+  resourcePackage: com.jdluke.home_automation.interfaces
+
+hubDiscoveryUrl: https://www.meethue.com/api/nupnp
